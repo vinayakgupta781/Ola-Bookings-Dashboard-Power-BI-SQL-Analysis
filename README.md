@@ -40,7 +40,11 @@ To analyze Ola cab booking data for the month of July 2024 using Power BI and SQ
 
 ## Dashboard Overview
 
-[![DashBoard Screenshot](https://github.com/user-attachments/assets/988f8b7a-1599-4fe3-aa34-34d719709022)](https://github.com/vinayakgupta781/Ola-Bookings-Dashboard-Power-BI-SQL-Analysis/blob/main/Overall.png)
+![Overall](https://github.com/user-attachments/assets/dc0d3863-829f-4a6f-b668-6761d3335ffa)
+![Vehicle Type](https://github.com/user-attachments/assets/d30d4cda-fa4b-488d-8ceb-12b71f6cdec2)
+![Revenue](https://github.com/user-attachments/assets/95490975-001f-4aad-84bc-b1b6f4179a4d)
+![Cancellations](https://github.com/user-attachments/assets/dfd0bf4e-475c-45fd-949d-8eca6ff50206)
+![Ratings](https://github.com/user-attachments/assets/171e6f07-3da4-4e68-9532-da5741cad4cd)
 
 ---
 
