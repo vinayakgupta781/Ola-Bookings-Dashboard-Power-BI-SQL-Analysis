@@ -26,7 +26,13 @@ To analyze Ola cab booking data for the month of July 2024 using Power BI and SQ
 - Driver Ratings Distribution
 - Customer vs. Driver Ratings
 
-- Dashboard Interaction <a href="https://github.com/vinayakgupta781/Hotel-Booking-Cancellation-Dashboard/blob/main/DashBoard%20Screenshot.png">View Dashboard</a>
+- Dashboard Interaction:
+  - <a href="https://github.com/vinayakgupta781/Ola-Bookings-Dashboard-Power-BI-SQL-Analysis/blob/main/Overall.png">View Overall</a>
+  - <a href="https://github.com/vinayakgupta781/Ola-Bookings-Dashboard-Power-BI-SQL-Analysis/blob/main/Vehicle%20Type.png">View Vehicle Type</a>
+  - <a href="https://github.com/vinayakgupta781/Ola-Bookings-Dashboard-Power-BI-SQL-Analysis/blob/main/Revenue.png">Revenue</a>
+  - <a href="https://github.com/vinayakgupta781/Ola-Bookings-Dashboard-Power-BI-SQL-Analysis/blob/main/Cancellations.png">Cancellation</a>
+  - <a href="[https://github.com/your-username/your-repo/blob/main/Dashboard5.png](https://github.com/vinayakgupta781/Ola-Bookings-Dashboard-Power-BI-SQL-Analysis/blob/main/Ratings.png)">Ratings</a>
+
 
 ---
 
