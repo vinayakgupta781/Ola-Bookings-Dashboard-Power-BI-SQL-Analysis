@@ -7,7 +7,9 @@ To analyze Ola cab booking data for the month of July 2024 using Power BI and SQ
 
 ## Dataset Used
 
-- <a href="https://github.com/vinayakgupta781/Hotel-Booking-Cancellation-Dashboard/blob/main/Hotel%20Booking%20%26%20Cancellations.xlsx">Dataset</a>
+- <a href="https://github.com/vinayakgupta781/Ola-Bookings-Dashboard-Power-BI-SQL-Analysis/blob/main/Ola%20Bookings.pbix">Power BI Dataset</a>
+- <a href="https://github.com/vinayakgupta781/Ola-Bookings-Dashboard-Power-BI-SQL-Analysis/blob/main/SQL%20Questions.sql">SQL Questions</a>
+
 
 ---
 
